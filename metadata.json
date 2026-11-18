@@ -1,0 +1,8 @@
+{
+  "name": "Thủy Lợi & Cấp Nước — Quản Lý Công Trình & Báo Cáo Tuần",
+  "description": "Hệ thống quản lý công trình cấp nước, phân công giám sát theo tab riêng và tổng hợp báo cáo tuần dành cho lãnh đạo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
